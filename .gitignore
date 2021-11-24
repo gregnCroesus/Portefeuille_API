@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Portefeuille/bin/Debug/net5.0
+/Portefeuille/obj
+/.vs/Portefeuille
+/Portefeuille.Data/Portefeuille.Data/bin/Debug/net5.0
+/Portefeuille.Data/Portefeuille.Data/obj
+/Portefeuille.Domain/obj
+/Portefeuille.Infrastructure/bin/Debug/net5.0
+/Portefeuille.Infrastructure/obj
+/Portefeuille.Tests/Porterfeuille.SmallTests/obj
